@@ -2,6 +2,7 @@
   "name": "weather-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Kshitij8713345.github.io/Weather-App",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -30,5 +31,6 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5"
+
   }
 }
